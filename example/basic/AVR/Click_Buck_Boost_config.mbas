@@ -1,0 +1,5 @@
+module Click_Buck_Boost_config
+
+include Click_Buck_Boost_types
+
+end.

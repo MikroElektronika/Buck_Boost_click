@@ -1,0 +1,5 @@
+unit Click_Buck_Boost_config;
+
+uses Click_Buck_Boost_types;
+
+end.
